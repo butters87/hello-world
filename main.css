@@ -1,0 +1,17 @@
+body {
+	background: #cc0000;
+}
+
+h1 {
+	font-family: cursive;
+	font-size: 20px;
+}
+
+h1:hover {
+	font-weight: bold;
+}
+
+li {
+	font-family: Arial;
+	font-size: 12px;
+}
